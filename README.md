@@ -2,14 +2,6 @@
 
 Welcome to my GitHub profile! Here, you'll find a mix of personal projects and open-source contributions. I like creating things that are both boring and useless, combining entertainment and productivity in unique ways✌️✌️.
 
-## ⚡ Fun facts
-- I'm a chill guy living in a chill world.
-- When I’m not coding, I’m probably watching youtube about everything it shown on my feed.
-- I enjoy working on projects that have no practical purpose but add some fun to life.
-- I'm actually don't have much coding experience and only learned C# at my university for a few months.
-  > now i am interested in python tho
-- I enjoy coming up with crazy ideas, then asking ChatGPT to write, debug, and publish everything.
-
 ## 🔧 Projects
 
 - **stonake**: A seamless combination of precise time tracking and nostalgic snake gameplay. Perfect for those who enjoy both productivity and entertainment in one app.
